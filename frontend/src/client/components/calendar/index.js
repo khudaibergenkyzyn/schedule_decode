@@ -5,7 +5,6 @@ import {time , weekDays} from '../../../utils/calendar-info';
 import { useState } from 'react';
 import Col from "./col";
 import Item from "./item";
-import { h } from "vue";
 function Calendar(props) {
     const [width , setWidth] = useState(1400)
     window.addEventListener('resize', function(event){
