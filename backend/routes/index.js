@@ -10,6 +10,6 @@ router.use(require('./group'));
 router.use(require('./search'))
 router.use(require('./room'))
 router.use(require('./course'))
-router.use(require('./auth'))
+// router.use(require('./auth'))
 
 module.exports = router
