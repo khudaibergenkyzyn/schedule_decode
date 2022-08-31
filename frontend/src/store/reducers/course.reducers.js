@@ -1,4 +1,3 @@
-import { def } from '@vue/shared';
 import * as types from '../actions/types';
 
 const initialState = {
