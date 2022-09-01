@@ -1,1 +1,1 @@
-export const BASE_URL='http://api.decodeblog.site'
+export const BASE_URL='http://sch.decodeblog.site'
